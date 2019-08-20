@@ -424,8 +424,6 @@ they're both still free):
 - [Make a SUPER simple personal URL shortener with Netlify](https://youtu.be/HL6paXyx6hM?list=PLV5CVI1eNcJgCrPH_e6d57KRUTiDZgs0u)
   (I'm still livestreaming almost every week day at
   [kcd.im/devtips](https://kcd.im/devtips))
-- [The three browsers holding JavaScript back the most are:](https://twitter.com/jamiebuilds/status/1022568918949408768)...
-  An interesting thread by [Jamie Kyle](https://twitter.com/jamiebuilds).
 - [Emotion 10 released!](https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd) 
   —  This is still my favorite CSS-in-JS solution and
   [this is why](https://twitter.com/tkh44/status/1070901663622283265) I prefer
